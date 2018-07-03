@@ -1,4 +1,4 @@
-library(dplyr)
+library(reshape2)
 
 ## Get the data set and unzip it into working directory
 filename <- "getdata.zip"
